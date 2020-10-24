@@ -1,2 +1,2 @@
 # Maxouw
-17yo Learn python at school (basic level)
+17yo Learn java at university (basic level)
